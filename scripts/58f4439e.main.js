@@ -1,0 +1,1 @@
+"use strict";!function(){var a=document.querySelectorAll("img.inject-me");SVGInjector(a)}();

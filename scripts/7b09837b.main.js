@@ -1,1 +1,0 @@
-"use strict";jQuery(document).ready(function(){var a=document.querySelectorAll("img.inject-me");SVGInjector(a)});
